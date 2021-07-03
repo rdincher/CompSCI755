@@ -1,0 +1,10 @@
+timeslot,status,reserved by
+9,available,
+10,reserved,ryan
+11,available,
+12,available,
+1,available,
+2,available,
+3,available,
+4,reserved,ryan
+5,reserved,ryan
